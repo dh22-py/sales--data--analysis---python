@@ -30,6 +30,5 @@ The total sales amount was successfully calculated.
 The product with the highest sales was identified.
 Monthly sales trends were visualized using a graph.
 Conclusion
-
 This project shows how Python can be used for basic sales data analysis.
 It helps in understanding sales performance and trends from raw data.
