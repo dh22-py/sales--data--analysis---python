@@ -1,0 +1,11 @@
+order_id,order_date,product_name,category,quantity,unit_price,total_amount
+1001,2025-01-05,Laptop,Electronics,2,55000,110000
+1002,2025-01-07,Mouse,Electronics,5,500,2500
+1003,2025-01-10,Keyboard,Electronics,3,1500,4500
+1004,2025-01-12,Office Chair,Furniture,1,12000,12000
+1005,2025-01-15,Notebook,Stationery,10,100,1000
+1006,2025-01-18,Pen Pack,Stationery,20,20,400
+1007,2025-01-20,Monitor,Electronics,2,15000,30000
+1008,2025-01-22,Desk,Furniture,1,18000,18000
+1009,2025-01-25,Printer,Electronics,1,22000,22000
+1010,2025-01-28,File Folder,Stationery,15,30,450
